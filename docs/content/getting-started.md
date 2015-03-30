@@ -51,7 +51,7 @@ Let's start with the contents of `index.html`:
   <div ng-viewport></div>
 
   <script src="/node_modules/angular/angular.js"></script>
-  <script src="/dist/router.es5.js"></script>
+  <script src="/node_modules/angular-new-router/dist/router.es5.js"></script>
   <script src="/app/app.js"></script>
 </body>
 </html>
